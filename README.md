@@ -12,7 +12,6 @@
 - **教程说明**：教程会分知识点，每节课程会建立一个文件（例如：Lesson1.md）。
 
 ## 教程大纲 ##
-http://windgreen.me/2018/01/11/ethereum%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5/
 | 课程号 | 课程名           
 |------ |:-------------:
 | 第一课 | 以太坊开发环境搭建 
@@ -24,7 +23,7 @@ http://windgreen.me/2018/01/11/ethereum%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%8C%BA%E5%9
 | 第七课 | 桌面应用-以太尔简易钱包开发
 
 ## 参考网站 ##
-
+[http://windgreen.me/2018/01/11/ethereum%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%8C%BA%E5%9D%97%E9%93%BE%E5%BA%94%E7%94%A8%E5%AE%9E%E8%B7%B5/]参考网站<br>
 1. 以太坊官方Github: [https://github.com/ethereum](https://github.com/ethereum "以太坊Gihub")<br>
 2. 区块链技术中文社区：[https://bitshuo.com/](https://bitshuo.com/ "区块链技术中文社区")<br>
 3. 区块链技术博客：[http://me.tryblockchain.org/](http://me.tryblockchain.org/ "区块链技术博客")<br>
